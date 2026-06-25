@@ -2,8 +2,14 @@
 	(version 20250114)
 	(generator "eeschema")
 	(generator_version "9.0")
-	(uuid a78e5f3b-5bb0-4609-8625-a896846aed81)
+	(uuid "a78e5f3b-5bb0-4609-8625-a896846aed81")
 	(paper "A4")
+	(title_block
+		(title "AirQ")
+		(date "2026-06-25")
+		(rev "1")
+		(company "Julian Sanchez")
+	)
 	(lib_symbols)
 	(sheet_instances
 		(path "/"
